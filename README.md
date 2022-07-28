@@ -20,8 +20,11 @@ Check this out: [It's not a bitcoin](https://cryptolandingpagebyadi.netlify.app)
     - I also explored and apply background url images in a div element.
     - How to approach the project in while building.
 
+## Message For Visitors
+    -Feel free to make changes and tag me
+    -Emails4adi@gmail.com
 
-## This project took me around 2 hours approximately which also include the ScreenShot taking and pusing to github.
+## This project took me around 1.5 hours approximately.
 
 ### Chek Me  
 
